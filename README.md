@@ -1,4 +1,4 @@
-## Welcome 
+# Welcome 
 
 <!--
 **denysep17/denysep17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 💫 About Me:
+ # 💫 About Me:
 🔭 I’m currently working on<br>AI safety research across model behavior and systems assurance —<br>from strategic deception and agent control to trustworthy compute.<br><br>👯 I’m looking to collaborate on<br>Agent control, scheming evaluations, AI assurance,<br>and verifiable AI infrastructure.<br><br>🤝 I’m looking for help with<br>Adaptive oversight, adversarial control protocols,<br>compute verification, and hardware-rooted attestation.<br><br>🌱 I’m currently learning<br>Science of Scheming • AI Control • Agent Oversight<br>AI Assurance • Confidential Computing • Compute Governance<br><br>💬 Ask me about<br>LLM & Agent Evals • Strategic Deception • AI Control<br>RAG Evaluation • Multilingual Evals • AI Assurance<br><br>⚡ Research direction<br>Building trustworthy evidence across the AI stack<br>from what models do to where and how they execute.
 
 
