@@ -1,5 +1,4 @@
 <!-- =========================================================
-     DENYSE PEREZ DE VERA
      AI CONTROL · SCHEMING EVALUATIONS · VERIFIABLE AI SYSTEMS
 ========================================================= -->
 
