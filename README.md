@@ -1,5 +1,5 @@
 <!-- =========================================================
-     AI CONTROL · SCHEMING EVALUATIONS · VERIFIABLE AI SYSTEMS
+AI CONTROL · SCHEMING EVALUATIONS · VERIFIABLE AI SYSTEMS
 ========================================================= -->
 
 <div align="center">
